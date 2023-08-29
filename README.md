@@ -1,4 +1,4 @@
-### Hello, I'm Hunter 👋 안녕하세요 제 이름은 헌터입니다
+### Hello, I'm Hunter 👋 안녕하세요 제 이름은 헌터입니다~~ 
 
 ## 💬 About me 
 
@@ -14,7 +14,7 @@ Working on my A.I. Programming with Python projects.
 
 ## 🌱 I’m currently learning
 
-Focusing on Data Science and A.I. programming skills. Looking forward to developing skills in A.I. generative coding. 
+Focusing on Data Science and A.I. programming skills. Looking forward to developing skills generative A.I.  
 데이터 사이언스와 A.I에 중점을 두고 있습니다. 프로그래밍 기술. A.I 기술을 개발할 수 있기를 기대합니다. 생성 코딩.
 
 
