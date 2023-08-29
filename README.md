@@ -54,4 +54,5 @@ Open to work on any projects from basic data analytics to Machine learning.
 
 ## 📫 How to contact me 
 
-linkedIn: https://www.linkedin.com/in/hunter-sparrow-6b769032/ 
+<a href="www.linkedin.com/in/hunter-sparrow-6b769032" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:hunterksparrow@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
