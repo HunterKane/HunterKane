@@ -6,7 +6,11 @@
 
 
 <!--   my-ticker -->    
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+I+am+Hunter+안녕하세요+~+~;+Welcome+to+my+profile!;Over+4+years+of+analytical+experience;Always+learning+new+things+👍;Data+Analyst+enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋안녕하세요,+I+am+Hunter+;Over+4+years+of+analytical+experience;Always+learning+new+things+👍;Data+Enthusiast)
+
+
+<img src="https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/gifs/same-stats-different-graphs/DinoSequentialSmaller.gif" title="Sequential dinosaur gif" alt="Sequential dinosaur gif" width="600px" />
+
 
 
 <!--   my-skils -->
@@ -28,6 +32,8 @@
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={HunterKane}
+
+
 
 
 ## 💬 About me 
