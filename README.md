@@ -1,50 +1,40 @@
+<p align="center">
+  <img src="./src/header_.png" alt="Header" width="100%" />
+</p>
 
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" alt="Python Logo">
+</a>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋+Hunter+Sparrow+|+AI+%26+ML+Engineer;🎓+MS+in+Data+Science+%26+AI+@+Northwestern;🤖+Specialist+in+LLM+Evaluation+%26+Metrics;🛠️+Building+Deterministic+Production+AI" alt="Typing SVG">
+</p>
 
+---
 
-<!--   my-ticker -->    
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋Hello,+I+am+Hunter+;Over+4+years+of+analytical+experience;Always+learning+new+things+👍;Data+Enthusiast🖥️)
+### 🚀 Technical Expertise & AI Stack
 
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **LLM & NLP** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge) ![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=google&logoColor=white) |
+| **Computer Vision** | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Data Engineering** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+| **Specialization** | **LLM Evaluation** • **Performance Metrics** • **RAG Optimization** • **Deterministic Pipelines** |
 
-<img src="https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/gifs/same-stats-different-graphs/DinoSequentialSmaller.gif" title="Sequential dinosaur gif" alt="Sequential dinosaur gif" width="600px" />
+---
 
+## 💬 About Me
+I am a **Data Scientist and AI Engineer** specializing in the **evaluation and optimization of LLMs** and production AI agents. My background centers on bridging the gap between raw model output and reliable, production-ready business intelligence.
 
+Currently at **Meta**, I focus on enhancing development quality and product reliability through rigorous testing and structured experimentation[cite: 31, 33]. I hold an **MS in Data Science & AI from Northwestern University**, where I specialized in creating high-accuracy, deterministic computer vision and NLP systems[cite: 11, 60].
 
-<!--   my-skils -->
+## 🔭 High-Impact Projects
+* **[AI-Agent-Eval]**: An analytics framework for tracking accuracy, latency, and token usage metrics across 10k+ multi-turn interactions[cite: 45, 47].
+* **[Retail-Shelf-Vision]**: A multi-stage CV pipeline (YOLOv8 + U-Net) achieving sub-second inference for real-time retail audits[cite: 60, 129].
+* **[Legal-Compliance-NLP]**: A RAG-enhanced classification system for 80k+ contract provisions using Legal-BERT[cite: 49, 51, 53].
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Forums**                           | ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-| **Databases**                                   |![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Education**                                          | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)                                                                                                                                                                                                                                                              |
-| **Tools & Platform**                            |![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)                                                                                                                                                                                                                                                                                  
-| **Machine Learning / Deep Learning frameworks** |![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
-
-## 💬 About me 
-
-I analyze data for trends and patterns interpret data with a clear objective in mind and implement analytical models into production. I communicate analytic solutions to stakeholders and make data-driven decisions.
-
-
-## 🔭 I’m currently working on
-
-Working on my AI programming with Python projects.
-
-
-
-## 🌱 I’m currently learning
-
-Focusing on Data Science and A.I. programming skills. Looking forward to developing skills in generative AI.  
-
-
-## 👯 I’m looking to collaborate on
-
-Open to work on any projects from basic data analytics to Machine learning. 
-
-## 📫 How to contact me 
-
-<a href="www.linkedin.com/in/hunter-sparrow-6b769032" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:hunterksparrow@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+## 📫 Connect with Me
+<p align="left">
+<a href="www.linkedin.com/in/hunter-sparrow-6b769032" target="blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="mailto:hunterksparrow@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</p>
