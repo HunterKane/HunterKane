@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header with animated typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hunter+Sparrow+%E2%80%94+Product+%26+AI+Operations;MS+Data+Science+%26+AI+%40+Northwestern;LLM+Evaluation+%7C+Computer+Vision+%7C+NLP;Building+Deterministic+AI+Pipelines)](https://git.io/typing-svg)
+<!-- Header with animated typing - duration=3000 keeps full lines visible before cycling -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&multiline=false&width=750&lines=Product+Operations+%26+Dev+Quality+Specialist;MS+Data+Science+%26+AI+—+Northwestern+University;LLM+Evaluation+%7C+Computer+Vision+%7C+NLP;Building+Deterministic+AI+Pipelines+for+Production)](https://git.io/typing-svg)
 
 <!-- Profile views + social -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-sparrow-6b769032)
@@ -97,11 +97,14 @@ Stack: `YOLOv8` · `EfficientNet` · `U-Net` · `OpenCV`
 
 <div align="center">
 
-![Hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterKane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/HunterKane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HunterKane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKane&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HunterKane&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=HunterKane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
