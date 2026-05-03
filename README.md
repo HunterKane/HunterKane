@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Header with animated typing - duration=3000 keeps full lines visible before cycling -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&multiline=false&width=750&lines=Product+Operations+%26+Dev+Quality+Specialist;MS+Data+Science+%26+AI+—+Northwestern+University;LLM+Evaluation+%7C+Computer+Vision+%7C+NLP;Building+Deterministic+AI+Pipelines+for+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&multiline=false&width=780&lines=Product+Operations+%26+Dev+Quality+Specialist;MS+in+Data+Science+%26+AI+%40+Northwestern+University;LLM+Evaluation+%7C+Computer+Vision+%7C+NLP;Building+Deterministic+AI+Pipelines+for+Production)](https://git.io/typing-svg)
 
-<!-- Profile views + social -->
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-sparrow-6b769032)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hunterksparrow@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=HunterKane&color=36BCF7&style=flat&label=Profile+Views)
@@ -62,34 +62,34 @@ Stack: `YOLOv8` · `EfficientNet` · `U-Net` · `OpenCV`
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-5A2D81?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-5A2D81?style=for-the-badge)
 
 ### 👁️ Computer Vision & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![U-Net](https://img.shields.io/badge/U--Net-20B2AA?style=flat-square)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-2E8B57?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-20B2AA?style=for-the-badge)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-2E8B57?style=for-the-badge)
 
 ### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FFA500?style=flat-square)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FFA500?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ### ⚙️ Product & Quality Operations
-![Meta](https://img.shields.io/badge/Meta_Dev_Quality-0668E1?style=flat-square&logo=meta&logoColor=white)
-![Gainsight](https://img.shields.io/badge/Gainsight-E31937?style=flat-square)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Experimentation-FF4500?style=flat-square)
-![QA](https://img.shields.io/badge/Quality_Assurance-CD5C5C?style=flat-square)
+![Meta](https://img.shields.io/badge/Meta_Dev_Quality-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Gainsight](https://img.shields.io/badge/Gainsight-E31937?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Experimentation-FF4500?style=for-the-badge)
+![QA](https://img.shields.io/badge/Quality_Assurance-CD5C5C?style=for-the-badge)
 
 ---
 
@@ -97,14 +97,12 @@ Stack: `YOLOv8` · `EfficientNet` · `U-Net` · `OpenCV`
 
 <div align="center">
 
-<a href="https://github.com/HunterKane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HunterKane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HunterKane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HunterKane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://streak-stats.demolab.com?user=HunterKane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
@@ -112,10 +110,12 @@ Stack: `YOLOv8` · `EfficientNet` · `U-Net` · `OpenCV`
 
 ## 🎓 Education
 
-| Degree | Institution |
-|---|---|
-| **MS in Data Science & AI** | Northwestern University |
-| **PG in AI & Machine Learning** | University of Texas at Austin |
+<div align="center">
+
+![Northwestern](https://img.shields.io/badge/MS_Data_Science_%26_AI-Northwestern_University-4E2A84?style=for-the-badge&logo=academia&logoColor=white)
+![UT Austin](https://img.shields.io/badge/PG_AI_%26_Machine_Learning-UT_Austin-BF5700?style=for-the-badge&logo=academia&logoColor=white)
+
+</div>
 
 ---
 
