@@ -11,6 +11,9 @@
 </div>
 
 ---
+## 📊 Professional Focus
+
+**Build agentic AI systems for data science tasks. Know how to measure whether they actually work, and understand how and why they fail, and how to fix them.**
 
 ## 👋 About Me
 
