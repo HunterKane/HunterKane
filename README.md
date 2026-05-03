@@ -1,78 +1,125 @@
-<a href="https://www.python.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" alt="Python Logo">
-</a>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋+Hunter+Sparrow+|+Product+Operations;🛠️+Dev+Quality+%26+QA+Specialist;🎓+MS+in+Data+Science+%26+AI+@+Northwestern;📊+Specialist+in+LLM+Evaluation+%26+Performance+Metrics" alt="Typing SVG">
-</p>
+<!-- Header with animated typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hunter+Sparrow+%E2%80%94+Product+%26+AI+Operations;MS+Data+Science+%26+AI+%40+Northwestern;LLM+Evaluation+%7C+Computer+Vision+%7C+NLP;Building+Deterministic+AI+Pipelines)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/gifs/same-stats-different-graphs/DinoSequentialSmaller.gif" title="Sequential dinosaur gif" alt="Sequential dinosaur gif" width="600px" />
-</p>
+<!-- Profile views + social -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-sparrow-6b769032)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hunterksparrow@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=HunterKane&color=36BCF7&style=flat&label=Profile+Views)
+
+</div>
+
 ---
 
-### 🛠️ Technical Ecosystem (MS DS & AI Toolkit)
+## 👋 About Me
 
-### 🤖 LLM & AI Evaluation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Optimization-5A2D81?style=for-the-badge)
-![Metrics](https://img.shields.io/badge/Metrics:_Accuracy_|_Latency_|_Tokens-8A2BE2?style=for-the-badge)
+I'm a **Product Operations & Dev Quality Specialist** with 5+ years in analytics, working at the intersection of operational excellence and applied AI. Currently focused on release stability and production system quality, with a strong research foundation from my **MS in Data Science & AI at Northwestern University**.
+
+My work spans LLM evaluation frameworks, computer vision pipelines, and NLP document intelligence — building systems that are measurable, reliable, and production-ready.
+
+```python
+hunter = {
+    "role":       "Product Operations & Dev Quality Specialist",
+    "focus":      ["LLM Evaluation", "Computer Vision", "NLP", "QA Automation"],
+    "education":  "MS Data Science & AI — Northwestern University",
+    "currently":  "Building deterministic AI pipelines for production systems",
+    "metrics":    ["Accuracy", "Latency", "Token Efficiency", "Release Stability"]
+}
+```
+
+---
+
+## 🔭 Featured Projects
+
+### 🤖 LLM Evaluation & Optimization Framework
+> Analytics framework to evaluate AI agent performance at scale
+
+- Evaluated **10,000+ agent interactions** across accuracy, latency, and token usage
+- Identified failure patterns and optimized prompt/retrieval strategies
+- Built dashboards for real-time performance monitoring
+
+### 👁️ Deterministic Retail Analytics Pipeline
+> End-to-end computer vision system for real-time retail audits
+
+| Metric | Result |
+|---|---|
+| Inference Speed | **0.96s** |
+| Classification Accuracy | **98.9%** |
+| Segmentation mIoU | **0.9755** |
+
+Stack: `YOLOv8` · `EfficientNet` · `U-Net` · `OpenCV`
+
+### 📄 NLP Document Intelligence
+> Multi-class classification for contract provision analysis
+
+- Classified **80,000 contract provisions** using Legal-BERT + RAG pipelines
+- Achieved **Macro-F1 of 0.815** across complex legal categories
+- Accelerated capital recovery and compliance workflows significantly
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-5A2D81?style=flat-square)
 
 ### 👁️ Computer Vision & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
-![UNet](https://img.shields.io/badge/U--Net-20B2AA?style=for-the-badge)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-2E8B57?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-3CB371?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-20B2AA?style=flat-square)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-2E8B57?style=flat-square)
 
 ### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FFA500?style=for-the-badge)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FFA500?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-### ⚙️ Product Operations & Quality
-![Meta](https://img.shields.io/badge/Meta_Dev_Quality-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![QA](https://img.shields.io/badge/Quality_Assurance-CD5C5C?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Workflow_Automation-8B0000?style=for-the-badge)
-![ABTesting](https://img.shields.io/badge/A/B_Experimentation-FF4500?style=for-the-badge)
-![Gainsight](https://img.shields.io/badge/Gainsight-E31937?style=for-the-badge)
+### ⚙️ Product & Quality Operations
+![Meta](https://img.shields.io/badge/Meta_Dev_Quality-0668E1?style=flat-square&logo=meta&logoColor=white)
+![Gainsight](https://img.shields.io/badge/Gainsight-E31937?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Experimentation-FF4500?style=flat-square)
+![QA](https://img.shields.io/badge/Quality_Assurance-CD5C5C?style=flat-square)
 
 ---
 
-## 💬 Professional Narrative
+## 📊 GitHub Stats
 
-I am a **Product Operations and Dev Quality Specialist** with over 5 years of experience in analytics. My expertise lies at the intersection of operational excellence and **applied Artificial Intelligence**.
+<div align="center">
 
-Currently, working on quality initiatives for production systems, focusing on release stability and product reliability. I hold a **Master of Science in Data Science & AI from Northwestern University**, which enables me to build and evaluate the deterministic AI pipelines that drive modern business intelligence and compliance.
+![Hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterKane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-## 🔭 Featured AI & Metrics Projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKane&layout=compact&theme=tokyonight&hide_border=true)
 
-### **LLM Evaluation & Optimization Framework**
-* **Goal:** Built an analytics framework to evaluate AI agent performance across 10,000+ interactions.
-* **Impact:** Tracked accuracy, latency, and token usage metrics to identify failure patterns and optimize prompt/retrieval strategies.
+![GitHub Streak](https://streak-stats.demolab.com?user=HunterKane&theme=tokyonight&hide_border=true)
 
-### **Deterministic Retail Analytics Pipeline**
-* **Goal:** End-to-end computer vision system for real-time retail audits using YOLOv8, EfficientNet, and U-Net.
-* **Results:** Achieved **0.96s inference**, **98.9% classification accuracy**, and **0.9755 mIoU** for segmentation.
+</div>
 
-### **NLP Document Intelligence**
-* **Goal:** Multi-class classification for 80,000 contract provisions using Legal-BERT and RAG pipelines.
-* **Impact:** Achieved a **Macro-F1 of 0.815**, significantly accelerating capital recovery and compliance workflows.
+---
 
 ## 🎓 Education
-* **MS in Data Science & AI** | Northwestern University
-* **PG in AI & Machine Learning** | University of Texas at Austin
 
-## 📫 Connect with Me
-<p align="left">
-<a href="www.linkedin.com/in/hunter-sparrow-6b769032" target="blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="mailto:hunterksparrow@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
+| Degree | Institution |
+|---|---|
+| **MS in Data Science & AI** | Northwestern University |
+| **PG in AI & Machine Learning** | University of Texas at Austin |
+
+---
+
+<div align="center">
+
+*Open to collaborations on LLM evaluation, AI quality tooling, and applied ML systems.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-sparrow-6b769032)
+
+</div>
